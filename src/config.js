@@ -1,19 +1,19 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "0x9498274b8c82b4a3127d67839f2127f2ae9753f4",
+    "collection_address": "0x70EaF22c2143Cf0BE6880cF3Fe6852AFE2E37465",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
-    "block_chain_id": "137",
+    "block_chain_id": "43114",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
-    "title": "My NFT Collection",
+    "title": "Topps Premium Inception Pack",
 
     // 4. (Optional) Display the floor price chart
     "timeseries_chart": true,
 
     // 5. (Optional) Set your banner image
-    "banner_picture": "https://www.superflexfitness.com/wp-content/uploads/2017/03/3D-banner-background.jpg",
+    "https://firebasestorage.googleapis.com/v0/b/topps-316016.appspot.com/o/mlb%2FInception_premium_Front_01.png?alt=media&token=0bf2fbe4-1434-4e08-953e-263519d147ca",
   },
 
   // These options just for your reference
