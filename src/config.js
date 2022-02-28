@@ -13,7 +13,7 @@ export const CONFIG = {
     "timeseries_chart": true,
 
     // 5. (Optional) Set your banner image
-    "https://firebasestorage.googleapis.com/v0/b/topps-316016.appspot.com/o/mlb%2FInception_premium_Front_01.png?alt=media&token=0bf2fbe4-1434-4e08-953e-263519d147ca",
+    "https://i.imgur.com/hpztGLa.png",
   },
 
   // These options just for your reference
