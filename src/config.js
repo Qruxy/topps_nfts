@@ -14,7 +14,7 @@ export const CONFIG = {
 
     // 5. (Optional) Set your banner image
     "https://i.imgur.com/hpztGLa.png"
-  },
+  }
 
   // These options just for your reference
   FILTER_OPTIONS : [
