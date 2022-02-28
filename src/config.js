@@ -13,7 +13,7 @@ export const CONFIG = {
     "timeseries_chart": true,
 
     // 5. (Optional) Set your banner image
-    "https://i.imgur.com/hpztGLa.png",
+    "https://i.imgur.com/hpztGLa.png"
   },
 
   // These options just for your reference
